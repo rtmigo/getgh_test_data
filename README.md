@@ -1,3 +1,1 @@
-# ghfile_test_data
-
-A repository to test [gfhd](https://github.com/rtmigo/getgh).
+Unit tests for [getgh](https://github.com/rtmigo/getgh) will use this repository as a source for test data.
