@@ -1,0 +1,4 @@
+[submodule "pyrel_as_submodule"]
+	path = pyrel_as_submodule
+	url = https://github.com/rtmigo/pyrel
+	branch = master
