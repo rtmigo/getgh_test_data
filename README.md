@@ -1,1 +1,1 @@
-Unit tests for [getgh](https://github.com/rtmigo/getgh) will use this repository as a source for test data.
+Unit tests for [hubget](https://github.com/rtmigo/hubget) will use this repository as a source for test data.
